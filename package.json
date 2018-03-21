@@ -1,0 +1,22 @@
+{
+  "name": "ptc-dungeons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.ts",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1",
+    "env-var": "^3.2.0",
+    "express": "^4.16.3",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.7.2"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^4.0.2"
+  },
+  "scripts": {
+    "test": "."
+  },
+  "author": "@robotgryphon",
+  "license": "ISC"
+}
